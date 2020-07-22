@@ -1,0 +1,12 @@
+{
+  "name": "readcomments",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^3.0.1"
+  }
+}
